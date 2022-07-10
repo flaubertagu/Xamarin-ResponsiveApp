@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "szoTjJ57X5yUBtD36vcaQPIa8Z9A9Trg0sfZ/R1JJtOVh1vijM/960J5Xuh7KKgg9nnyLyHEJLAI1Zdbbztx0Q==",
+  "success": true,
+  "projectFilePath": "G:\\T2F tuto\\ResponsibleApp\\ResponsibleApp\\ResponsibleApp\\ResponsibleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\resizetizer.nt\\0.3.0\\resizetizer.nt.0.3.0.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResponsibleApp.MainPage"
+             x:Name="MyPage">
+
+    <!--FR-->
+    <!--Attribuer un nom 'x:Name' à la page vous permettra de cibler toutes les fonctions relatives à la page dans le code lié à la page-->
+
+    <!--ENG-->
+    <!--Setting a name 'x:Name' to the page will allows you to target any functions relative to the page in the code behind-->
+
+    <StackLayout>
+        <CollectionView ItemsSource="{Binding MyLibrary}"
+                        SelectionMode="Single"
+                        SelectionChanged="CollectionView_SelectionChanged"
+                        HorizontalOptions="FillAndExpand"
+                        VerticalOptions="FillAndExpand"
+                        BackgroundColor="#FFF9F8">
+            <!--FR-->
+            <!--{Binding MyLibrary} cible le fichier Library.cs déclaré en 'ObservableCollection' dans le fichier 'MainPageVM'-->
+
+            <!--ENG-->
+            <!--{Binding MyLibrary} targets the Library.cs file declared in 'ObservableCollection' in the 'MainPageVM' file-->
+            
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" Span="{Binding GridSpan}" />
+            </CollectionView.ItemsLayout>
+            <!--FR-->
+            <!-- Faire la liaison dans le GridItemsLayout entre le Span et le GridSpan permet de modifier directement la value en fonction du changement de la largeur de la page -->
+
+            <!--ENG-->
+            <!-- Linking in the GridItemsLayout between the Span and the GridSpan allows to directly modify the value according to the change of the width of the page-->
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100*" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40" />
+                            <!--FR-->
+                            <!--la valeur '100' définit la hauteur de base de la première ligne. -->
+                            <!--'*' définit l'ajustement automatique pour remplir la grille -->
+
+                            <!--ENG-->
+                            <!--the value '100' defines the base height of the first line.-->
+                            <!--'*' sets autofit to fill grid-->
+                        </Grid.RowDefinitions>
+                        
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <StackLayout    Orientation="Vertical"
+                                        HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand"
+                                        BackgroundColor="Transparent">
+
+                            <Image  Source="folder.png"
+                                    WidthRequest="80"
+                                    MinimumWidthRequest="30"
+                                    Aspect="AspectFill"
+                                    BackgroundColor="Transparent"
+                                    HorizontalOptions="CenterAndExpand"
+                                    VerticalOptions="StartAndExpand"/>
+
+                            <!--FR-->
+                            <!--StringFormat='{0:F0)}' renvoie une valeur texte en texte-->
+
+                            <!--ENG-->
+                            <!--StringFormat='{0:F0)}' returns a text value to text-->
+                            <Label  Text="{Binding FolderName,StringFormat='{0:F0)}'}"
+                                    HorizontalTextAlignment="Center"
+                                    HorizontalOptions="Center"
+                                    VerticalOptions="StartAndExpand"
+                                    TextColor="#4B3835"
+                                    FontFamily="NoirRegular"
+                                    FontSize="{x:OnPlatform UWP=12,macOS=12,Android=10,iOS=10}" />
+
+                            <!--FR-->
+                            <!--StringFormat='{0:F0)}' renvoie une valeur date heure en texte-->
+
+                            <!--ENG-->
+                            <!--StringFormat='{0:F0)}' returns a datetime value as text-->
+                            <Label  Text="{Binding DateTime,StringFormat='{0:hh:mm tt}}'}"
+                                    TextColor="#382827"
+                                    FontFamily="NoirRegular"
+                                    FontSize="{x:OnPlatform UWP=12,macOS=12,Android=10,iOS=10}"
+                                    Margin="0,-5,0,0"
+                                    Padding="0"/>
+                                                            
+                        </StackLayout>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

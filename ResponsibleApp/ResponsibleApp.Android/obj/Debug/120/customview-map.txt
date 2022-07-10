@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+alpha;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\enterfromleft.xml
+alpha;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\shellcontent.xml
+attr;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\attrs.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\120\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\tabbar.xml
+declare-styleable;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\attrs.xml
+external-cache-path;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\bottomtablayout.xml
+item;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\styles.xml
+LinearLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\bottomtablayout.xml
+paths;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\attrs.xml
+resources;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\strings.xml
+resources;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\styles.xml
+resources;obj\Debug\120\res\values\colors.xml
+resources;obj\Debug\120\res\values\styles.xml
+set;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\enterfromleft.xml
+set;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\enterfromright.xml
+set;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\exittoleft.xml
+set;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\exittoright.xml
+string;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\strings.xml
+style;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\values\styles.xml
+style;obj\Debug\120\res\values\styles.xml
+translate;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\enterfromleft.xml
+translate;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\enterfromright.xml
+translate;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\exittoleft.xml
+translate;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp.Android\obj\Debug\120\lp\54\jl\res\layout\flyoutcontent.xml

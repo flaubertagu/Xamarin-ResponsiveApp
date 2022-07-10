@@ -1,0 +1,15 @@
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\bin\Debug\netstandard2.0\ResponsibleApp.deps.json
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\bin\Debug\netstandard2.0\ResponsibleApp.dll
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\bin\Debug\netstandard2.0\ResponsibleApp.pdb
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.csproj.AssemblyReference.cache
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.AssemblyInfoInputs.cache
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.AssemblyInfo.cs
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.csproj.CoreCompileInputs.cache
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.dll
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\refint\ResponsibleApp.dll
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ResponsibleApp.pdb
+G:\T2F tuto\ResponsibleApp\ResponsibleApp\ResponsibleApp\obj\Debug\netstandard2.0\ref\ResponsibleApp.dll
