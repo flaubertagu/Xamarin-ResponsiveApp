@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTUKsA6SAVs4Lt8PdDZxJqgiRQBCnZohC3dwt+KX6DbtiFI4bE+WQV7XBLmG9sZwr5dy1/oXkN2UK7cxIi/t6g==",
+  "success": true,
+  "projectFilePath": "G:\\T2F tuto\\ResponsibleApp\\ResponsibleApp\\ResponsibleApp.iOS\\ResponsibleApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\resizetizer.nt\\0.3.0\\resizetizer.nt.0.3.0.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}
